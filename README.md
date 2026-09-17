@@ -50,7 +50,7 @@ sydney-housing-project/
 ## Getting started
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/SashenJayathilaka/Sydney-Housing-Price-Prediction.git
 cd sydney-housing-project
 python3 -m venv venv
 source venv/bin/activate
